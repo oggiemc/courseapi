@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="271859fd-3cbf-422b-8a0a-309c4a3ec07e" name="Default" comment="Initial Commit of courseapi project">
+    <list default="true" id="271859fd-3cbf-422b-8a0a-309c4a3ec07e" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fergal/springbootquickstart/CourseApiApp.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fergal/springbootquickstart/hello/HelloController.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fergal/springbootquickstart/topic/Topic.class" />
@@ -799,7 +799,7 @@
       <workItem from="1531407138539" duration="647000" />
       <workItem from="1531407805177" duration="17283000" />
       <workItem from="1531775774115" duration="452000" />
-      <workItem from="1539954449161" duration="2641000" />
+      <workItem from="1539954449161" duration="2668000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit of courseapi project">
       <created>1539959286165</created>
@@ -808,11 +808,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539959286165</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit of courseapi project">
+      <created>1539959477501</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539959477501</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21023000" />
+    <option name="totallyTimeSpent" value="21050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
